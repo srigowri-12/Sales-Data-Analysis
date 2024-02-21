@@ -54,8 +54,8 @@ Power BI Dashboard Preview
 ============================
 
 ![Page1](https://github.com/srigowri-12/Sales-Data-Analysis/blob/43018e738a1610d973c9e1eea7e1b31fc4a2498d/Sales-key-insight.png)
-![Page2](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/sales-profit-analysis.png)
-![Page3](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/sales-performance-insight.png)
+![Page2](https://github.com/srigowri-12/Sales-Data-Analysis/blob/4deac907cf41668ddb8e1643ab4cc90fbed60907/sales-profit-analysis.png)
+![Page3](https://github.com/srigowri-12/Sales-Data-Analysis/blob/4deac907cf41668ddb8e1643ab4cc90fbed60907/sales-performance-insight.png)
 
 
 
